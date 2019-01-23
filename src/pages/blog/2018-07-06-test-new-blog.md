@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Test new blog
 date: '2018-07-06T21:01:46-07:00'
-description: This is a test new blog
+description: This is a test new blog new edit
 tags:
   - test
   - blog
