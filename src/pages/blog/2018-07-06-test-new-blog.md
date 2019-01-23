@@ -7,7 +7,7 @@ tags:
   - test
   - blog
 ---
-This also contains some _**markdown**_ text.
+This also contains some **_markdown_** text.
 
 And some image:
 
